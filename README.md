@@ -11,11 +11,11 @@ Este projeto é constituido de oito relatórios de análise de dados de imóveis
 
   Gráfico que representa o valor de venda dos imóveis por bairro, somando o valor do IPTU e condomínio. Com isso podemos concluir que o valor do imóveis e a quantidade de casa e apartamentos no bairro da Barra da Tijuca representa mais de 43% dos imóveis e em segundo com maior valor de venda é o bairro de Copacabana.
 
-  ## Gráfico 3
+## Gráfico 3
 
-    Gráfico que mostra a localização dos imóveis por bairro no Município do Rio de Janeiro.
+  Gráfico que mostra a localização dos imóveis por bairro no Município do Rio de Janeiro.
 
-    
+## Gráfico 
 
 ![Grafico de Imóveis](https://github.com/ewertondrigues02/Analise-de-Dados-de-Imoveis/assets/106437473/2c6bf6ff-ff4a-4cc7-9509-e508a5787505)
 
