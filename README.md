@@ -15,6 +15,8 @@ Este projeto é constituido de oito relatórios de análise de dados de imóveis
 
     Gráfico que mostra a localização dos imóveis por bairro no Município do Rio de Janeiro.
 
+    
+
 ![Grafico de Imóveis](https://github.com/ewertondrigues02/Analise-de-Dados-de-Imoveis/assets/106437473/2c6bf6ff-ff4a-4cc7-9509-e508a5787505)
 
 
