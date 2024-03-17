@@ -23,4 +23,4 @@ Este projeto é constituido de oito relatórios de análise de dados de imóveis
 
 ## Observação
 
-  Essa análise foi feita com dados fictícios de uma seguradora de imóveis criada para a fim de estudo. NÂO SÂO DADOS REAIS.
+  Essa análise foi feita com dados fictícios de uma seguradora de imóveis criada para a fim de estudo. NÂO SÂO DADOS REAIS e sim ficticios.
